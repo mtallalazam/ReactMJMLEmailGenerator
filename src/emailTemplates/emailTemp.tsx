@@ -14,7 +14,7 @@ import {
           <MjmlColumn>
             <EmailHeader
               socialImage="https://picsum.photos/600?random=6"
-              title="Mjml React Test"
+              title="Hello World - Mjml React Test"
               href="https://mjml.io/"
             />
           </MjmlColumn>
